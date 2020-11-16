@@ -1,4 +1,4 @@
-# Movie-crawler
+# Movie-Spider
 
 ## Project Objectives
 - The purpose of this project is to crawl the available data set of the recommendation algorithm, 
